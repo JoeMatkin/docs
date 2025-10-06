@@ -14,11 +14,11 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Essential Fundementals",
+            "group": "Essential Fundamentals",
             "pages": [
-              "essential-fundementals/introduction",
-              "essential-fundementals/quickstart",
-              "essential-fundementals/authentication"
+              "essential-fundamentals/introduction",
+              "essential-fundamentals/quickstart",
+              "essential-fundamentals/authentication"
             ]
           },
           {
