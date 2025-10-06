@@ -22,10 +22,11 @@
             ]
           },
           {
-            "group": "Fundementals",
+            "group": "Fundamentals",
             "pages": [
-              "fundementals/pagination",
-              "essentials/navigation"
+              "fundamentals/pagination",
+              "fundamentals/expand",
+              "fundamentals/filters"
             ]
           },
           {
