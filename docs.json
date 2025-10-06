@@ -14,19 +14,19 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Essential Fundementals",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "essential-fundementals/introduction",
+              "essential-fundementals/quickstart",
+              "essential-fundementals/authentication"
             ]
           },
           {
-            "group": "Fundamentals",
+            "group": "Request Fundamentals",
             "pages": [
-              "fundamentals/pagination",
-              "fundamentals/expand",
-              "fundamentals/filters"
+              "request-fundamentals/pagination",
+              "request-fundamentals/expand",
+              "request-fundamentals/filters"
             ]
           },
           {
