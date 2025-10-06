@@ -22,9 +22,9 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Fundementals",
             "pages": [
-              "essentials/settings",
+              "fundementals/pagination",
               "essentials/navigation"
             ]
           },
