@@ -30,12 +30,18 @@
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Domains",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "domains/orders",
+              "domains/suppliers",
+              "domains/products",
+              "domains/customers",
+              "domains/purchase-orders",
+              "domains/warehouse",
+              "domains/dispatch",
+              "domains/clients",
+              "domains/customers",
+              "domains/purchase-orders"
             ]
           },
           {
