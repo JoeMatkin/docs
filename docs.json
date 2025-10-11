@@ -32,7 +32,7 @@
           {
             "group": "Core Resources",
             "pages": [
-              "create-supplier"
+              "core-resources/create-supplier"
             ]
           },
           {
