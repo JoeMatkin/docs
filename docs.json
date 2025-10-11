@@ -30,6 +30,12 @@
             ]
           },
           {
+            "group": "Core Resources",
+            "pages": [
+              "create-supplier"
+            ]
+          },
+          {
             "group": "Domains",
             "pages": [
               "domains/orders",
