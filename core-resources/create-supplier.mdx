@@ -3,14 +3,6 @@ title: "New file"
 description: "Description of your new file."
 ---
 
----
-
-title: Create wallet address
-
-description: Create a new address within a wallet.
-
----
-
 ## POST /v1/wallets/{wallet_id}/addresses
 
 Create a new address within a wallet.
@@ -18,27 +10,20 @@ Create a new address within a wallet.
 ### Authorizations
 
 | Name | Type | In | Required | Description |
-
-|------|------|----|-----------|--------------|
-
+|------|------|----|----------|-------------|
 | Authorization | string | header | ✅ | Bearer JWT token |
 
 ### Path Parameters
 
 | Name | Type | Required | Description |
-
-|------|------|-----------|--------------|
-
+|------|------|----------|-------------|
 | wallet_id | string | ✅ | The ID of the wallet to create the address in. |
 
 ### Request Body
 
-\`\`\`json
-
+```json
 {
-
   "public_key": "string",
-
   "attestation": "string"
-
 }
+```
